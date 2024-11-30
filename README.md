@@ -26,6 +26,10 @@ The goal of this project is to classify handwritten digits from the MNIST datase
 
 Additionally, the Wine dataset is used to test KNN on a classification problem with normalized features.
 
+
+### Detailed Report
+You can access the comprehensive analysis by clicking here: [Detailed Report](./Digits%20Classifier%20KNN.pdf)
+
 ---
 
 ## Features
